@@ -1,9 +1,9 @@
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnZ3ZkdXdjeXljM29rbWd1NDUwZTlkdHcxaG92N29iY2hzcDVqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnZ3ZkdXdjeXljM29rbWd1NDUwZTlkdHcxaG92N29iY2hzcDVqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30%" height="30%"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=600&lines=On+journey+to+become+a+great+blockchain+dev." alt="Typing SVG" />
   </a>
 </div>
 
