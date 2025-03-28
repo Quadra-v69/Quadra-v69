@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnZ3ZkdXdjeXljM29rbWd1NDUwZTlkdHcxaG92N29iY2hzcDVqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -22,14 +22,14 @@ I'm **[`Quadra_v69`](https://x.com/Quadra_v69)**, a hacker & Security Researcher
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
+- **Name**: Quadra
+- **From**: india
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at **Quadra_v69@wearehackerone.com**
 
 </details>
 <br>
